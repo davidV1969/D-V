@@ -1,0 +1,98 @@
+body {
+	background-color: white;
+	font-family:"Times New Roman", Times, serif;
+	font-size: 12pt;
+	color: #800000;/* Dark maroon for body text */
+	text-align center;/* Keeps paragraphs left-aligned*/
+	}
+	h1 {
+	   display: inline-block;	/*Shrinks width to fit text*
+	   background-color; lightblue;/* Background only around text*/
+	   font-siza: 32p;
+	   color; red;		/*Bright red text */
+	   padding: 5px 10px	/*Space around the text*
+	   margin 20px auto	*
+	   }
+	   p{
+	    font-family: "Times New Roman", Times,serif;
+	    font-siza:12pt;	/* or 12px depending on requirement*/
+	    color:black
+	    text-align:left;
+	   }
+	
+
+	<div class="row">
+	   <p> class="shrt">
+		This is a demonstartion of the fact that you can shorten
+		blocks that things are put into and it is just here to show you
+		how to do it. i hope this helps answers any qustions you
+		may have
+	   </p>
+	</div>
+	<div style="clear:both;"></div>
+	<ol>
+		<li>Apple
+			<ol type="I"">
+			<li>Thomas</li>  
+			<li>ryu</li>
+ 			</ol>
+		</li>
+		<li>Favorite Snack</li>
+		<li >Song you can sing</li>
+		<li>Favorite color</li>
+	</ol>
+
+	p.shrt{
+	  display: inline-block:	/*Shrinks width to fit content */
+	  background-color: lightyellow;/*Optional:highlight it */
+	  width:600px;	/* Fixed width
+	}
+	.row{
+	   display:flex;	/*Enables horizontal layout*/
+	   gap:20px:	/*Optional space between paragraphs */
+	}
+
+	img{
+	  display:block;	/*Makes the image act as a block element*/
+	  float:left;	/* Aligns the image to the left */
+	  margin:0 15px 15px 0;/* Adds space around image:top right bottem left*?
+	}
+	p{
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<a herf="https://www.byfood.com/blog/culture/types-of-sushi-fish-beginners-guide/>
+	     <img src= "https://byfood.b-cdn.net/api/public/assets/13082/sushi-plate?optimizer=image>"
+	     alt=
+	<p>
+		this is where you would put your text. 
+		you can continue to type and see how far the text will go
+	</BR>   across the  page. just keep trying to see what happens, you
+		dont have to have works but you could you use random yexttsa dw;ajd
+		awjdsaifjwajepasj safwa fwaoj lorem lorem lorem lorem 
+	</p>
+	
